@@ -1,6 +1,8 @@
-### Hi there 👋
+### Welcome 🤗
 
-There are some pages for app supports. 
+There are some repositories for app supports. 
+
+Please feel free to create issues or contact me by email directly.
 
 <!--
 **lbwanghr/lbwanghr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
